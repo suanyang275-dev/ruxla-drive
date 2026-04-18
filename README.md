@@ -262,7 +262,7 @@ try {
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/ruxla-drive.git
+git clone https://github.com/suanyang275-dev/ruxla-drive.git
 cd ruxla-drive
 
 # Install dependencies
@@ -297,8 +297,9 @@ Contributions welcome! Please ensure:
 ## 📧 Support
 
 Questions or found a bug?
-- Open an issue on [GitHub](https://github.com/your-username/ruxla-drive/issues)
-- Email: your.email@example.com
+- Open an issue on [GitHub](https://github.com/suanyang275-dev/ruxla-drive/issues)
+- Email: suanyang275@gmail.com
+
 
 ---
 

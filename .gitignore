@@ -1,0 +1,50 @@
+# Composer
+vendor/
+composer.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# PHP
+*.log
+*.phar
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+ehthumbs.db
+
+# Storage (encrypted files - sensitive)
+storage/secure/*.enc
+storage/secure/*.enc.backup
+storage/public/
+
+# Demo/Development
+demo/uploads/
+.php_cs.cache
+
+# Node (if using build tools)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Testing
+.phpunit.result.cache
+coverage/

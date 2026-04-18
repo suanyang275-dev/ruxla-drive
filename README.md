@@ -4,7 +4,7 @@ A powerful PHP library for secure file encryption, upload, and access control wi
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP: 7.4+](https://img.shields.io/badge/PHP-7.4+-blue.svg)](https://www.php.net)
-[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/your-username/ruxla-drive)
+[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/suanyang275-dev/ruxla-drive)
 
 ## 🚀 Features
 
@@ -25,7 +25,7 @@ composer require ruxla/drive
 
 ### Manual Installation
 
-1. Download from [GitHub Releases](https://github.com/your-username/ruxla-drive/releases)
+1. Download from [GitHub Releases](https://github.com/suanyang275-dev/ruxla-drive/releases)
 2. Extract to your project:
 
 ```php

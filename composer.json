@@ -1,0 +1,29 @@
+{
+    "name": "ruxla/drive",
+    "description": "Secure file encryption, upload & access control library for PHP",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ruxla\\Drive\\": "src/Ruxla/Drive"
+        }
+    },
+    "keywords": [
+        "encryption",
+        "file-upload",
+        "security",
+        "aes-256",
+        "access-control"
+    ],
+    "homepage": "https://github.com/your-username/ruxla-drive"
+}

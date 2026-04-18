@@ -20,6 +20,9 @@ Thumbs.db
 *.log
 *.phar
 
+# Legacy files (not for distribution)
+src/Ruxla/Drive/SecurityLegacy.php
+
 # Temporary files
 tmp/
 temp/

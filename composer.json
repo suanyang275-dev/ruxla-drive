@@ -6,8 +6,8 @@
     "version": "1.0.0",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "Suanyang",
+            "email": "suanyang275@gmail.com"
         }
     ],
     "require": {
@@ -25,5 +25,5 @@
         "aes-256",
         "access-control"
     ],
-    "homepage": "https://github.com/your-username/ruxla-drive"
+    "homepage": "https://github.com/suanyang275-dev/ruxla-drive"
 }
